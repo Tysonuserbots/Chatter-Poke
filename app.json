@@ -1,9 +1,9 @@
 {
     "name": "ᴅᴀʀᴋxᴍᴜsɪᴄ",
-    "logo": "https://te.legra.ph/file/086426b04c04a3c16f558.jpg",
+    "logo": "https://te.legra.ph/file/c1a51d5b08decd1d679b4.jpg",
     "description": "ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Sumit9969/DarkxMusic",
+    "repository": "https://github.com/Tysonuserbots/Chatter poke",
     "stack": "container",
     "env": {
         "API_ID": {
