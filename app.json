@@ -1,9 +1,11 @@
 {
     "name": "ᴅᴀʀᴋxᴍᴜsɪᴄ",
     "logo": "https://te.legra.ph/file/c1a51d5b08decd1d679b4.jpg",
-    "description": "ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.",
+    "description": "ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴀɴᴅ ɴᴇxᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴠᴄ ᴘʟᴀʏᴇʀ
+                   ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
+                   ᴅᴍ ᴛᴏ ᴍʏ ᴏᴡɴᴇʀ Tyson.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Tysonuserbots/Chatter poke",
+    "repository": "https://github.com/Tysonuserbots/Chatter-poke",
     "stack": "container",
     "env": {
         "API_ID": {
