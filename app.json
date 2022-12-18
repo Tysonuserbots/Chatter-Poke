@@ -8,13 +8,13 @@
         "API_ID": {8031832
             "required": true
         },
-        "API_HASH": {bc75e1eb3af2a880c1f0e3679306c414
+        "API_HASH": {"bc75e1eb3af2a880c1f0e3679306c414"
             "required": true
         },
-        "BOT_USERNAME": {Chatterpokevc_bot
+        "BOT_USERNAME": {"Chatterpokevc_bot"
             "required": true 
         },
-        "BOT_TOKEN": {5642422572:AAG3NUwTXnOpD4tlioY-9juQmJHRz2-bGNs
+        "BOT_TOKEN": {"5642422572:AAG3NUwTXnOpD4tlioY-9juQmJHRz2-bGNs"
             "required": true
         },
          "SUDO_USERS": {
