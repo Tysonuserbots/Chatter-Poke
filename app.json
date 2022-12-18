@@ -1,42 +1,55 @@
-{
-    "name": "ᴅᴀʀᴋxᴍᴜsɪᴄ",
+"name": "CHATTER POKE VC BOT",
     "logo": "https://te.legra.ph/file/c1a51d5b08decd1d679b4.jpg",
-    "description": "ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴀɴᴅ ɴᴇxᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴠᴄ ᴘʟᴀʏᴇʀ ᴍʏ ᴏᴡɴᴇʀ Tyson.",
+    "description":"ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴀɴᴅ ɴᴇxᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴠᴄ ᴘʟᴀʏᴇʀ
+ʙᴏᴛ ᴀɴᴅ ɴᴏ ʟᴀɢ ɪssᴜᴇ ᴡɪᴛʜ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs
+ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
+ᴅᴍ ᴛᴏ ᴍʏ ᴏᴡɴᴇʀ Tyson.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/Tysonuserbots/Chatter-poke",
     "stack": "container",
     "env": {
-        "API_ID": {
-            "description": "𝚈𝚘𝚞𝚛 𝙰𝚙𝚙 𝙸𝙳",
+        "API_ID": {8031832
             "required": true
         },
-        "API_HASH": {
-            "description": "𝚈𝚘𝚞𝚛 𝙰𝚙𝚙 𝙷𝚊𝚜𝚑",
+        "API_HASH": {5642422572:AAG3NUwTXnOpD4tlioY-9juQmJHRz2-bGNs
             "required": true
        },
-        "BOT_USERNAME": {
-            "description": "𝙵𝚒𝚕𝚕 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞𝚛 𝚋𝚘𝚝 𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎 𝚏𝚛𝚘𝚖 @BotFather 𝚋𝚞𝚝 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝚞𝚜𝚒𝚗𝚐 '@' 𝚜𝚢𝚖𝚋𝚘𝚕",
+        "BOT_USERNAME": {Chatterpokevc_bot
             "required": true 
         },
         "BOT_TOKEN": {
-            "description": "𝙿𝚞𝚝 𝙱𝚘𝚝 𝚃𝚘𝚔𝚎𝚗 𝙾𝚏 𝚈𝚘𝚞𝚛 𝙱𝚘𝚝",
+5642422572:AAG3NUwTXnOpD4tlioY-9juQmJHRz2-bGNs
             "required": true
         },
          "SUDO_USERS": {
             "description": "𝚂𝚞𝚍𝚘 𝚞𝚜𝚎𝚛𝚜",
-            "required": true
+            "required": false 
         },
         "STRING_SESSION": {
             "description": "𝙿𝚢𝚛𝚘𝚐𝚛𝚊𝚖 𝚂𝚝𝚛𝚒𝚗𝚐 𝚂𝚎𝚜𝚜𝚒𝚘𝚗: 𝚄𝚜𝚎 𝚃𝚑𝚎𝚜𝚎 𝙱𝚘𝚝 @Hana_Session_Bot",
-            "required": true
+            "required": false
         }
     },
     "buildpacks": [
     {
-      "url": "heroku/python"
+      "url": "render/python"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
     }
   ]
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
